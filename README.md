@@ -1,5 +1,5 @@
 # MP3-Player-PCB
-PCB was completed, all that's left is finalizing documentation and presentation for the project
+PCB was assembled, everything worked perfectly. Finalizing documentation and presentation is all that's needed...
 
 # Technologies and Components
 ## Hardware Related
