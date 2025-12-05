@@ -28,7 +28,7 @@ A fully custom designed MP3 player that provides a clean and compact user intera
 
 # Custom Footprints
 Footprints were created for the PCB based on the exact physical measurments of the components in mm for accurate pad and pin allignments (2.54 mm spacing between pads)
-[special case for the audioJack, spacing for this was ...]
+[special case for the audioJack, spacing for this was 9.8mm and 4.9mm for the center pin]
 
 - DS3231 RTC: 22mm X 38.5mm (W X L)
 - DF Mini Player: 20.8mm X 20.8mm (W X L)
@@ -55,6 +55,6 @@ Footprints were created for the PCB based on the exact physical measurments of t
 + Evening/Night Icon: 7 PM - 5 AM
 
 # System Preview
-<img src = "https://github.com/user-attachments/assets/de5ac1a5-788c-4723-8f7f-29442f0c52cb" width = "400" height = "800"/> 
+<img src = "https://github.com/user-attachments/assets/de5ac1a5-788c-4723-8f7f-29442f0c52cb" width = "400" height = "700"/> 
 <img src = "https://github.com/user-attachments/assets/a706b393-1d43-4293-a5e2-802f0ad764a5" width = "400" height = "800"/> 
 
