@@ -1,5 +1,10 @@
-# MP3-Player-PCB Created with KiCad 9
-A fully custom designed MP3 player that provides a clean and compact user interaction expirence...
+# Nova 25 - Custom MP3 Player Created with KiCad 9
+A fully custom designed MP3 player that provides a clean and compact user interaction expirence. We built this with the goal of making a device that can actually be
+used by a consumer on a daily basis. We imitated all the functions a regular MP3 player has but adding our own twist to the idea. We designed the UI with the idea of
+having something that's both compact but visually appealing for the user.
+
+This board is meant to operate at 5V via a lithium-ion battery paired with a boost converter to give it the portability feature it needs. The PCB includes custom made symbols
+and footprints for each of the components along with labeling and decals along the PCB for both design and clarity.
 
 *created by: Bryan Diaz and Junior Ortega | Focus: Embedded Systems, Hardware and PCB Design*
 
@@ -19,6 +24,7 @@ A fully custom designed MP3 player that provides a clean and compact user intera
 ## Software Related
 - C++ (Toggle condtions for system features, loading of UI, response to user input based on 3 tactile buttons and cursor positioning)
 - KiCad 9 (Schematic capture and board design)
+- freeRTOS (task control for handling user input and system design)
 - Various libraries for components:
   - U8g2 (graphics for UI)
   - DFRobotDFPlayerMini (for mp3 player)
