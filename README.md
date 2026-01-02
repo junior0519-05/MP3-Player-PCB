@@ -60,7 +60,10 @@ Footprints were created for the PCB based on the exact physical measurments of t
 + Afternoon Icon: 4 PM - 6 PM
 + Evening/Night Icon: 7 PM - 5 AM
 
+
 # System Preview
-<img src = "https://github.com/user-attachments/assets/de5ac1a5-788c-4723-8f7f-29442f0c52cb" width = "400" height = "700"/> 
-<img src = "https://github.com/user-attachments/assets/a706b393-1d43-4293-a5e2-802f0ad764a5" width = "400" height = "800"/> 
+<img src = "https://github.com/user-attachments/assets/0175e984-8308-4e14-a383-08b61785e83b" width = "400" height = "700"/> 
+<img src = "https://github.com/user-attachments/assets/1caa3069-ad71-4998-81eb-c4525bf72be9" width = "400" height = "800"/> 
+
+
 
